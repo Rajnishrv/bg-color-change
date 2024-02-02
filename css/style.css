@@ -1,0 +1,26 @@
+button{
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+}
+
+#gray{
+    background-color: gray;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+
+#white{
+    background-color: white;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
